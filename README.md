@@ -1,4 +1,4 @@
-# DigitalControlProjects
+# Digital Control Projects
 Course projects completed in key subjects in the field of Digital Control Systems
 
 ## Automation Control Theory Project
