@@ -18,6 +18,6 @@ The calculation results were simulated in the Matlab/Simulink platform.
 ## Adaptive and Robust Control Project
 The purpose of the work is to synthesize an adaptive control law that compensates for an unknown disturbance using the Kreisselmeyer scheme, which provides accelerated parametric convergence.
 
-
+During the work, the properties of controllability and observability were applied, a reference model based on the Newton polynomial was built, and parameters for the adaptation algorithm were calculated. The adaptation algorithm is based on the method using the Lyapunov function. Concepts such as a definite matrix and a strictly positive real function are used. Accelerated parametric convergence is ensured by selecting the transfer function L(c), after which an adaptive observer is formed for an unknown disturbance. Next, a comparison was made of the gradient adaptation algorithm with the Kreisselmeyer accelerated convergence algorithm.
 
 The calculation results were simulated in the Matlab/Simulink platform.
